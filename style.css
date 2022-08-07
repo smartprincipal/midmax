@@ -5,13 +5,16 @@
 }
 body{
  background: rgba(2, 25, 49, 1);
-
+}
+.hero-section{
+ margin-left: 120px;
+ margin-right: 121px;
 }
 header{
  display: flex;
  justify-content: space-between;
  align-items: center;
- margin: 23px 121px 0px 120px;
+ margin-top: 23px;
  /* border: 2px solid red; */
 }
 nav ul{
@@ -67,7 +70,6 @@ padding-left: 25px;
  background-color: antiquewhite;
 }
 .sub-hero-section{
- margin-left: 120px;
  margin-right: 120px;
  display: flex;
 }
@@ -150,13 +152,36 @@ text-align: left;
  text-decoration: underline;
 }
 .hero-section-image{
- margin-left: 125px;
+ margin-left: 85px;
 }
 .img1{
  margin-top: 152px;
 }
 .img2{
  position: absolute;
- left: 1050px;
+ left: 1015px;
  margin-top: 76px;
+}
+.hero-slide{
+ display: flex;
+ margin-top: 79px;
+ justify-content: space-between;
+
+}
+.hero-slide-svg{
+ display: flex;
+ gap: 8px;
+}
+.n0102{
+ display: flex;
+ gap: 16px;
+}
+.numbers{
+color: rgba(255, 255, 255, 1);
+border-bottom: 3px solid #2EA5BE;
+width: 180px;
+}
+.movies{
+color: rgba(46, 165, 190, 1);
+margin-top: 7px;
 }
