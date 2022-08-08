@@ -432,3 +432,59 @@ padding-top: 12px;
 padding-left: 35px;
 gap: 8px;
  }
+ .section-5{
+  margin-top: 64px;
+  padding-left: 120px;
+  padding-right: 120px;
+ }
+ .sub-section-5{
+  display: flex;
+ }
+ .sub-section-5-content{
+  margin-top: 87px;
+  width: 464px;
+  height: 302.94px;
+  border: 2px solid green;
+ }
+ .sub-section-5-content p{
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+color: #2DA5BE;
+ }
+ .sub-section-5-content h3{
+  font-family: Poppins;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+color: #FFFFFF;
+ }
+ .sub-section-5-content a{
+font-size: 18px;
+font-weight: 400;
+color: #FFFFFF;
+text-decoration: none;
+ }
+ .sub-section-5-content a:hover{
+  text-decoration: underline;
+ }
+ .givo{
+  display: flex;
+  align-items: center;
+  margin-top: 24px;
+  gap: 8px;
+ }
+ .sub-section-5-images{
+  display: flex;
+  margin-left: 20px;
+ }
+
+ .aqua{
+  
+  margin-top: 115px;
+ }
+ .aqua2{
+  position: absolute;
+  right: 200px;
+  margin-top: 70px;
+ }
