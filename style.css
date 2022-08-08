@@ -406,6 +406,29 @@ gap: 12px;
  .s-s-4{
   width: 282px;
   height: 621.06px;
-  border: 2px solid gold;
-  
+  /* border: 2px solid gold; */
+ }
+ .pre-date{
+  color: rgba(165, 165, 166, 1);
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+ }
+ .btn-arrow{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #021931;
+  border: 1px solid #2EA5B6;
+border-radius: 5px;
+margin-top: 44px;
+color: #FFFFFF;
+width: 188px;
+height: 54px;
+font-size: 18px;
+font-weight: 400px;
+align-items: center;
+padding-top: 12px;
+padding-left: 35px;
+gap: 8px;
  }
