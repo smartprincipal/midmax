@@ -565,9 +565,14 @@ margin-bottom: 32px;
  }
  .f2 p{
   margin-top: 16px;
-
  }
  .socials{
   display: flex;
   gap: 24px;
+ }
+
+ /* mobile responsiveness for screen with Max-width 768px */
+
+ @media screen and (max-width:768px) {
+  
  }
