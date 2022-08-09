@@ -448,8 +448,7 @@ gap: 8px;
  .sub-section-5-content{
   margin-top: 87px;
   width: 464px;
-  height: 302.94px;
-  border: 2px solid green;
+  height: 302.94px;l
  }
  .sub-section-5-content p{
 font-size: 18px;
@@ -687,5 +686,61 @@ margin-bottom: 32px;
   width: 330px;
   left: 160px;
   margin-top: 76px;
+ }
+ .sub-section-32{
+  display: block;
+ }
+ .section-3-content{
+  margin-top: 25px;
+ }
+ .section-4{
+  margin-top: 20px;
+ }
+ .sub-section-4{
+  display: block;
+ }
+ .s-s-4{
+  margin-top: 40px;
+ }
+ .sub-section-31 p{
+  font-size: 24px;
+ }
+ .section-5{
+  padding-left: 40px;
+  padding-right: 40px;
+ }
+ .sub-section-5{
+  display: block;
+ }
+ .sub-section-5-content{
+  margin-top: 15px;
+ }
+ .sub-section-5-images{
+  width: 450px;
+ }
+.aqua{
+ margin-top: 20px;
+ width: 310px;
+}
+.aqua2{
+left: 250px;
+ margin-top: 0px;
+ width: 230px;
+}
+.s6{
+ padding-bottom: 15px;
+   /* margin-top: 57.06px; */
+   border-bottom: 2px solid #2EA5B6;
+   padding-left: 40px;
+   padding-right: 40px;
+}
+ .section-6{
+  margin-top: 57.06px;
+  display: block;
+  gap: 0px;
+  /* width: 84%; */
+  /* padding-left: 50%;
+  padding-right: 50%; */
+ 
  }
 }
