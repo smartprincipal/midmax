@@ -541,12 +541,17 @@ line-height: 24px;
   margin-top: 61px;
   padding-left: 120px;
   padding-right: 120px;
+  justify-content: space-between;
  }
  .f1{
   color: rgba(165, 165, 166, 1);
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
+ }
+ .logo{
+  margin-bottom: 32px;
+  margin-top: 15px;
  }
  .f2{
   color: #FFFFFF;
@@ -555,5 +560,14 @@ line-height: 24px;
 font-size: 18px;
 font-weight: 500;
 line-height: 27px;
+margin-bottom: 32px;
+/* margin-right: 64px; */
+ }
+ .f2 p{
+  margin-top: 16px;
 
+ }
+ .socials{
+  display: flex;
+  gap: 24px;
  }
