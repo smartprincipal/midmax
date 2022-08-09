@@ -338,7 +338,7 @@ line-height: 48px;
 }
 .section3-image{
  width: 736px;
- height: 472px;
+ /* height: 472px; */
 }
 .section3-image2{
  margin-top: 76px;
@@ -607,15 +607,12 @@ margin-bottom: 32px;
   .hero-section-image{
    margin-top: 5px;
    width: 450px;
-   /* height: 320px; */
-   /* border: 2px solid gold; */
   }
   .img1{
    width: 350px;
    margin-top: 60px;
   }
   .img2{
-   /* position: absolute; */
    left: 260px;
    width: 230px;
   }
@@ -630,11 +627,9 @@ margin-bottom: 32px;
    padding-right: 40px;
   }
   table{
-   /* display: block; */
    padding-top: 17px;
    padding-left: 5px;
    width: 450px;
-   /* height: 80px; */
   margin-top: 15px;
   }
   th{
@@ -656,11 +651,41 @@ margin-bottom: 32px;
   }
   .moviess{
    margin-top: 20px;
+   align-content: center;
   }
   .time{
    margin-top: 5px;
  }
  .time2{
   margin-top: 15px;
+ }
+ .sub-section-22{
+  display: block;
+  margin-top: 10px;
+ }
+ .section-3{
+  margin-top: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+ }
+ .sub-section-31 p{
+ font-size: 24px;
+ font-weight: 700;
+ line-height: 48px;
+ }
+ .sub-section-32{
+  display: block;
+ }
+ .section3-image{
+  width: 450px;
+ }
+ .section3-image2{
+  width: 250px;
+  margin-top: 0px;
+ }
+ .section3-image1{
+  width: 330px;
+  left: 160px;
+  margin-top: 76px;
  }
 }
